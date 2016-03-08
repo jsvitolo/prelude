@@ -1,0 +1,10 @@
+(diminish 'company-mode)
+(diminish 'helm-mode)
+(diminish 'guru-mode)
+(diminish 'drag-stuff-mode)
+(diminish 'yas-global-mode)
+(diminish 'yas-minor-mode)
+(diminish 'whitespace-mode)
+(diminish 'smartparens-mode)
+
+(provide 'setup-modeline)
