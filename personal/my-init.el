@@ -67,4 +67,5 @@
 ;;(require 'setup-shell)
 (require 'setup-theme)
 ;;(require 'setup-window)
+(require 'setup-neotree)
 ;;(require 'setup-yasnippet)
