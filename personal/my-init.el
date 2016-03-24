@@ -50,6 +50,8 @@
 (require 'setup-display)
 (require 'setup-shell)
 (require 'setup-web)
+(require 'setup-ruby)
+(require 'setup-whitespace)
 ;;(require 'handlebars-mode)
 ;;(require 'setup-my-packages)
 ;;(require 'custom-commands)
