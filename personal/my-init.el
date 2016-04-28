@@ -36,7 +36,7 @@
 ;;(require 'prelude-org) ;; Org-mode helps you keep TODO lists, notes and more
 ;;(require 'prelude-perl)
 ;; (require 'prelude-python)
-;; (require 'prelude-ruby)
+ (require 'prelude-ruby)
 ;; (require 'prelude-scala)
 ;;(require 'prelude-scheme)
 (require 'prelude-shell)
@@ -52,6 +52,7 @@
 (require 'setup-web)
 (require 'setup-ruby)
 (require 'setup-whitespace)
+(require 'setup-rinari)
 ;;(require 'handlebars-mode)
 ;;(require 'setup-my-packages)
 ;;(require 'custom-commands)

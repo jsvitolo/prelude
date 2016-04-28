@@ -1,0 +1,4 @@
+
+;;Rinari
+
+(provide 'setup-rinari)
